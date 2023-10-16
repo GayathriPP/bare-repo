@@ -12,6 +12,8 @@ public class SampleBook {
     private String pageQuality;
 
     private String pageCount;
-    
+
+    private String bookTitle;
+
 
 }
