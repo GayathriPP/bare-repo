@@ -13,7 +13,6 @@ public class SampleBook {
 
     private String pageCount;
 
-    private String bookTitle;
 
     private String bookContent;
 
