@@ -4,10 +4,9 @@ public class SampleBook {
 
     // Fields
 
-    private bookId;
-
-    private bookName;
-    private bookAuthor;
-    private bookPrice;
+    private int bookId;
+    private String bookName;
+    private String bookAuthor;
+    private String bookPrice;
 
 }
