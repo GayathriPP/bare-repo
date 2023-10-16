@@ -14,6 +14,9 @@ public class SampleBook {
     // merged remote and local changes
     private String bookContent;
 
+
+    public SampleBook() {
+    }
     public SampleBook(int bookId, String bookName, String bookAuthor, String bookPrice, String pageQuality, int pageCount, String bookCount, String bookContent) {
         this.bookId = bookId;
         this.bookName = bookName;
