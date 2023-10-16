@@ -15,4 +15,6 @@ public class SampleBook {
     private String bookContent;
 
 
+    public SampleBook() {
+    }
 }
