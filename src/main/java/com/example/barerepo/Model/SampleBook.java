@@ -9,7 +9,7 @@ public class SampleBook {
     private String bookAuthor;
     private String bookPrice;
     private String pageQuality;
-    private String pageCount;
+    private int pageCount;
     private String bookContent;
 
 
