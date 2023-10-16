@@ -10,6 +10,8 @@ public class SampleBook {
     private String bookPrice;
     private String pageQuality;
     private int pageCount;
+    private String bookCount;
+    // merged remote and local changes
     private String bookContent;
 
 
